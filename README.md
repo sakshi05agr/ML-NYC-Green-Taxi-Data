@@ -1,7 +1,6 @@
 Data
 
-Green Taxi data from December 2016 published by the New York City Taxi and Limousine Commission
-Data Dictionary
+Green Taxi data from December 2016 published by the New York City Taxi and Limousine Commission Data Dictionary
 
 
 Analytic Questions
@@ -14,12 +13,13 @@ Analytic Questions
  • (Option 1) Find an anomaly in the data and explain your findings.
  • (Option 2) Visualize the data to help understand trip patterns
 
-Implementation
-1.Exploratory Data Analysis (EDA)
-2.Data Preprocessing
-3.Feature Selection & Dimensionality Reduction
-4.Model Selection
-5. Model Training
-6.Model Evaluation
-7.Model Interpretation & Validation
-8.Documentation & Communication
+Implementation:
+
+ 1. Exploratory Data Analysis (EDA)
+ 2. Data Preprocessing
+ 3. Feature Selection & Dimensionality Reduction
+ 4. Model Selection
+ 5. Model Training
+ 6. Model Evaluation
+ 7. Model Interpretation & Validation
+ 8. Documentation & Communication
